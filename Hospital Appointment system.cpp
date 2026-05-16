@@ -1,7 +1,3 @@
-/*
-    Amr Zaki Abdel-Razek 20245040 G2
-    Mohamed Waleed Wagih 20245056 G2
-*/
 #include <iostream>
 #include <string>
 #include "appointment.h"
